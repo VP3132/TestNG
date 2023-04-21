@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="123" started-at="2023-03-28T19:23:10 IST" finished-at="2023-03-28T19:23:10 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="123" started-at="2023-03-28T19:23:10 IST" finished-at="2023-03-28T19:23:10 IST">
+      <class name="Annotation.AnnotationDemo">
+        <test-method status="PASS" signature="BeforeTestDemo()[pri:0, instance:Annotation.AnnotationDemo@44f75083]" name="BeforeTestDemo" is-config="true" duration-ms="11" started-at="2023-03-28T19:23:10 IST" finished-at="2023-03-28T19:23:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTestDemo -->
+        <test-method status="PASS" signature="setupDemo()[pri:0, instance:Annotation.AnnotationDemo@44f75083]" name="setupDemo" duration-ms="15" started-at="2023-03-28T19:23:10 IST" finished-at="2023-03-28T19:23:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupDemo -->
+        <test-method status="PASS" signature="setupDemo2()[pri:0, instance:Annotation.AnnotationDemo@44f75083]" name="setupDemo2" duration-ms="1" started-at="2023-03-28T19:23:10 IST" finished-at="2023-03-28T19:23:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupDemo2 -->
+        <test-method status="PASS" signature="setupDemo3()[pri:0, instance:Annotation.AnnotationDemo@44f75083]" name="setupDemo3" duration-ms="12" started-at="2023-03-28T19:23:10 IST" finished-at="2023-03-28T19:23:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupDemo3 -->
+        <test-method status="PASS" signature="AfterTestDemo()[pri:0, instance:Annotation.AnnotationDemo@44f75083]" name="AfterTestDemo" is-config="true" duration-ms="1" started-at="2023-03-28T19:23:10 IST" finished-at="2023-03-28T19:23:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTestDemo -->
+      </class> <!-- Annotation.AnnotationDemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
